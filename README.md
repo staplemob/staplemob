@@ -57,7 +57,7 @@
 
 ### Databases & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,flask,django,express&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,hono,axum,express&theme=dark" alt="Databases" />
 </p>
 
 ###
