@@ -19,7 +19,7 @@
 
 ## ✘ About me
 
-⌇ My name is StapleMob.
+⌇ My name is furymeow.
 
 ⌇ I am from Earth.
 
@@ -33,12 +33,12 @@
 
 ◟ My Goals: To grow my skills in Rust, JavaScript, Web , Api's integration and development , to create solutions that make life easier through code.
 
-◟ Discord: @staplemob &nbsp;|&nbsp; Telegram: @staplemob
+◟ Discord: @furymeow &nbsp;|&nbsp; Telegram: @furymeow
 
 ◟ I'm always open to feedback, tips, and collaboration. Please use the form below to reach out!
 
 **[Submit feedback here!]
- email: contact@staplemob.com
+ email: contact@furymeow.com
 **
 
 ###
@@ -69,7 +69,7 @@
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
   </a>
   &nbsp;
-  <a href="https://t.me/staplemob" target="_blank">
+  <a href="https://t.me/furymeow" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="48" alt="Telegram" />
   </a>
 </p>
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=staplemob.staplemob&right_color=blueviolet&left_text=My%20Visitors"  />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=furymeow.furymeow&right_color=blueviolet&left_text=My%20Visitors"  />
 
 </div>
 
